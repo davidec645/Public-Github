@@ -10,4 +10,4 @@ All relevant function can be called from the master script, which will create th
 1. Add more features 
    -Percentage of starters present
    -clustering teams and refining current features to compare how teams have competed against similar teams instead of all aggregated historical          performance
-2. Format and Upload Bayesian Model for public Github
+2. Format and Upload Bayesian Model for public Github.
